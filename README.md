@@ -20,7 +20,7 @@ The default terminal prompt shows the username, then hostname, and then current 
     %~ means  Current directory (~ this symbol means you are in Home Directory)
     %% means  Character '%'
 
-<br><p align= "center">Normally you will see like this 
+<br><p align= "center" style="margin-bottom:10px">Normally you will see like this 
 </br>![Screenshot 2021-06-15 at 12 15 55 PM](https://user-images.githubusercontent.com/54282666/122005804-b695db80-cdd3-11eb-9c3e-3f966cd99bcb.png)</p>
 
 
@@ -33,7 +33,10 @@ The default terminal prompt shows the username, then hostname, and then current 
     PROMPT='%S%F{214}%n%f%s \[macAir17] in %F{108}%~%f -> '
   
     %S........%s means Standout mode. Start with %S and end with %s. 
-    %F{color value in 256 format}%f means foreground color. For color assignment we use this. For instance **%F{red}Demo%f**, this will print the word Demo in red color.
+    
+    %F{color value in 256 format}%f means foreground color. For color assignment we use this. 
+    For instance **%F{red}Demo%f**, this will print the word Demo in red color.
+    
     [macAir17] in ---> normal strings
   
 #### **Color ls** 
