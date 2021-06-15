@@ -20,13 +20,13 @@ The default terminal prompt shows the username, then hostname, and then current 
     %~ means  Current directory (~ this symbol means you are in Home Directory)
     %% means  Character '%'
 
-Normally you will see like this ---> 
+<text align= "center">Normally you will see like this</text><br>
 ![Screenshot 2021-06-15 at 12 15 55 PM](https://user-images.githubusercontent.com/54282666/122005804-b695db80-cdd3-11eb-9c3e-3f966cd99bcb.png)
 
 
 > The prompt can be overwritten by setting the **PROMPT** variable inside the ~/.zshrc file. For more visit -> http://zsh.sourceforge.net/Doc/Release/Prompt-Expansion.html#Prompt-Expansion
 
-After some changes you will see like this --->
+<text align= "center">After some changes you will see like this</text><br>
 ![Screenshot 2021-06-15 at 12 14 29 PM](https://user-images.githubusercontent.com/54282666/122009237-7fc1c480-cdd7-11eb-96c8-296fe4b93908.png)
 
     Syntatically expressed: 
