@@ -1,6 +1,6 @@
 #customization for zsh shell
 
-#prompt {name of user in bold}  {custom string provided [macAir17] in} {current in which im} ->
+#prompt {name of user in bold}  {custom string provided [macAir17] [in]} {currently in which directory i am} ->
 PROMPT='%S%F{214}%n%f%s [macAir17] in %F{108}%~%f -> '
 
 #lsd installed for colorful ls output. To make it run do alias ls. For more visit -> https://github.com/Peltoche/lsd
