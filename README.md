@@ -41,7 +41,7 @@ The default terminal prompt shows the username, then hostname, and then current 
 
 No colorful output when type **ls** and hit enter. Makes it difficult to distinguish between folder and files with different extensions.
 
-**lsd** makes thing simple for us. Just install it and boom ready to use. Wait not yet 😅
+**lsd** makes thing simple for us. <pre><code>lsd</code></pre> show colorful output which makes easy to work. Just install it and boom ready to use. Wait not yet 😅
 
     use any package manager you like to install it.
     brew users ->
