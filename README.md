@@ -1,6 +1,6 @@
 # zsh-mac-ls-color
 
-Want to you mac terminal colorful but not so colorful like all do by installing iterm2, oh my zash etc. Here a small guide for you how you can make your terminal colorful but minimal. **Let's start** 🎬
+Want to make mac terminal colorful but not so colorful like all do by installing iterm2, oh my zash etc. Here a small guide for you how you can make your terminal colorful but minimal. **Let's start** 🎬
 
 #### **First Thing**
 
@@ -41,13 +41,15 @@ The default terminal prompt shows the username, then hostname, and then current 
 
 No colorful output when type **ls** and hit enter. Makes it difficult to distinguish between folder and files with different extensions.
 
-**lsd** makes thing simple for us. <pre><code>lsd</code></pre> show colorful output which makes easy to work. Just install it and boom ready to use. Wait not yet 😅
+**lsd** make things simple for us. lsd show colorful output which makes easy to work. Just install it and boom ready to use. Wait not yet 😅
 
     use any package manager you like to install it.
     brew users ->
     $ brew install lsd
   
+For More visit -> https://github.com/Peltoche/lsd
+
 ##### Now 
-Just copy paste above **zshrc** file and paste it in your **Home Directory**. After pasting it in you home directory **RENAME IT** to ***.zshrc***. Now Open your terminal and you are good to go. See comments in zshrc file to be more clear.
+Just copy paste above **.zshrc** file and paste it in your **Home Directory**. 
 
 ###### Maybe this can help you to do what you want to do.
