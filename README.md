@@ -2,7 +2,7 @@
 
 Want to you mac terminal colorful but not so colorful like all do by installing iterm2, oh my zash etc. Here a small guide for you how you can make your terminal colorful but minimal.  
 
-**Let's start**🎬
+**Let's start** 🎬
 
 #### **First Thing**
 
@@ -22,7 +22,7 @@ The default terminal prompt shows the username, then hostname, and then current 
 
 <br><p align= "center">Normally you will see like this</p>
 
-</br>![Screenshot 2021-06-15 at 12 15 55 PM](https://user-images.githubusercontent.com/54282666/122005804-b695db80-cdd3-11eb-9c3e-3f966cd99bcb.png)
+</br><div style="text-align:center">![Screenshot 2021-06-15 at 12 15 55 PM](https://user-images.githubusercontent.com/54282666/122005804-b695db80-cdd3-11eb-9c3e-3f966cd99bcb.png)</div>
 
 
 > The prompt can be overwritten by setting the **PROMPT** variable inside the ~/.zshrc file. For more visit -> http://zsh.sourceforge.net/Doc/Release/Prompt-Expansion.html#Prompt-Expansion
