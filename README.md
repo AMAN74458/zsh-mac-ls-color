@@ -1,8 +1,6 @@
 # zsh-mac-ls-color
 
-Want to you mac terminal colorful but not so colorful like all do by installing iterm2, oh my zash etc. Here a small guide for you how you can make your terminal colorful but minimal.  
-
-**Let's start** 🎬
+Want to you mac terminal colorful but not so colorful like all do by installing iterm2, oh my zash etc. Here a small guide for you how you can make your terminal colorful but minimal. **Let's start** 🎬
 
 #### **First Thing**
 
