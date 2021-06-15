@@ -50,6 +50,6 @@ No colorful output when type **ls** and hit enter. Makes it difficult to disting
 For More visit -> https://github.com/Peltoche/lsd
 
 ##### Now 
-Just copy paste above **.zshrc** file and paste it in your **Home Directory**. 
+Just copy paste above **zshrc** file and paste it in your **Home Directory**. After pasting it in you home directory **RENAME IT** to ***.zshrc***. Now Open your terminal and you are good to go. See comments in zshrc file to be more clear.
 
 ###### Maybe this can help you to do what you want to do.
